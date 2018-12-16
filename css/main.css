@@ -1,0 +1,27 @@
+.slider h3 {
+  text-transform: uppercase;
+}
+.slider .btn {
+  margin-top: 20px;
+}
+
+.section-search input {
+  width: 90% !important;
+  padding: 5px !important;
+  border: 3px solid #f6f6f6 !important;
+  font-size: 18px !important;
+}
+
+.autocomplete-content {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+}
+
+.section-follow .fa-2x {
+  margin: 5px 10px;
+}
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
